@@ -19,12 +19,12 @@ Les caractéristiques du nombre Pi lui confèrent une très grande utilité. Tou
 
 II comment 
 
-Méthode 1 : Calcul de Pi à partir des mesures d’un cercle
-1- Vérifiez que votre figure est un cercle en vous assurant que tous ses points soient à égale distance du centre.
-2- Mesurez la circonférence (périmètre) de votre cercle avec précision.
-3- Mesurez aussi le diamètre du cercle.
-4- Utilisez la formule de la circonférence (C= π*d) de laquelle vous déduirez Pi. Il est alors égal à la circonférence divisée par le diamètre : π=C/d. Vous devriez trouver des valeurs proches de 3,14.
-5- Confirmez votre résultat en répétant la même opération avec des cercles de périmètres différents, puis faites la moyenne des résultats trouvés. Cela vous permettra d’obtenir des valeurs assez précises de π.
+Méthode 1 : Calcul de Pi à partir des mesures d’un cercle <br>
+1- Vérifiez que votre figure est un cercle en vous assurant que tous ses points soient à égale distance du centre. <br>
+2- Mesurez la circonférence (périmètre) de votre cercle avec précision.<br>
+3- Mesurez aussi le diamètre du cercle.<br>
+4- Utilisez la formule de la circonférence (C= π*d) de laquelle vous déduirez Pi. Il est alors égal à la circonférence divisée par le diamètre : π=C/d. Vous devriez trouver des valeurs proches de 3,14.<br>
+5- Confirmez votre résultat en répétant la même opération avec des cercles de périmètres différents, puis faites la moyenne des résultats trouvés. Cela vous permettra d’obtenir des valeurs assez précises de π.<br>
 
 Méthode 2 : Calcul de Pi en utilisant une série infinie
 1- Utilisez la formule de Leibniz-Gregory en faisant (4/1)-(4/3)+(4/5)-(4/7)+… Alternez les additions et les soustractions de fractions ayant toujours 4 au numérateur et un nombre impair croissant au dénominateur. Plus vous ferez d’itérations, plus votre valeur de π sera précise.
