@@ -26,18 +26,18 @@ Méthode 1 : Calcul de Pi à partir des mesures d’un cercle <br>
 4- Utilisez la formule de la circonférence (C= π*d) de laquelle vous déduirez Pi. Il est alors égal à la circonférence divisée par le diamètre : π=C/d. Vous devriez trouver des valeurs proches de 3,14.<br>
 5- Confirmez votre résultat en répétant la même opération avec des cercles de périmètres différents, puis faites la moyenne des résultats trouvés. Cela vous permettra d’obtenir des valeurs assez précises de π.<br>
 
-Méthode 2 : Calcul de Pi en utilisant une série infinie
-1- Utilisez la formule de Leibniz-Gregory en faisant (4/1)-(4/3)+(4/5)-(4/7)+… Alternez les additions et les soustractions de fractions ayant toujours 4 au numérateur et un nombre impair croissant au dénominateur. Plus vous ferez d’itérations, plus votre valeur de π sera précise.
+Méthode 2 : Calcul de Pi en utilisant une série infinie<br>
+1- Utilisez la formule de Leibniz-Gregory en faisant (4/1)-(4/3)+(4/5)-(4/7)+… Alternez les additions et les soustractions de fractions ayant toujours 4 au numérateur et un nombre impair croissant au dénominateur. Plus vous ferez d’itérations, plus votre valeur de π sera précise.<br>
 2- Essayez la formule de Nilakantha en alternant des additions et les soustractions de fractions ayant toujours 4 en numérateur. Le dénominateur est le produit de trois entiers successifs. À la fraction suivante, le premier élément du produit est le dernier élément du produit précédent. Cette formule permet l’obtention rapide d’une valeur assez précise de π.
 
 Méthode 3 : La méthode de Buffon. Buffon a remarqué qu’en jetant un très grand nombre d’aiguilles sur un parquet, on pouvait obtenir une approximation de π. Pour cela, il faudra utiliser des aiguilles qui ont comme longueur la largeur des lattes du parquet. La probabilité qu’une aiguille coupe le bord d’une latte serait de π.
 
-Méthode 4 : Obtenir Pi en utilisant la limite d’une fonction
-1- Choisissez un grand nombre que l’on appellera x (plus élevé sera ce nombre, plus précise sera votre valeur de π.
+Méthode 4 : Obtenir Pi en utilisant la limite d’une fonction<br>
+1- Choisissez un grand nombre que l’on appellera x (plus élevé sera ce nombre, plus précise sera votre valeur de π.<br>
 2- Faites l’application numérique en remplaçant x par la valeur que vous avez choisie dans la fraction suivante : x*sin [180/x]. Pour que cette méthode puisse fonctionner, votre calculatrice doit être réglée sur « degrés ».
 
-Méthode 5 : Calculer la constante Pi en utilisant la fonction arcsinus
-1- Choisissez un nombre x dans l’intervalle -1 et 1 ouvert, car la fonction arcsinus n’admet pas de valeurs extérieures à l’intervalle [-1 ; 1].
+Méthode 5 : Calculer la constante Pi en utilisant la fonction arcsinus<br>
+1- Choisissez un nombre x dans l’intervalle -1 et 1 ouvert, car la fonction arcsinus n’admet pas de valeurs extérieures à l’intervalle [-1 ; 1].<br>
 2- Entrez le nombre choisi dans la formule qui suit : 2*[arcsin (sqrt (1-x^2)) + abs (arcsin(1))].
 
 Évocation euler 
