@@ -27,20 +27,6 @@ Méthode 1 : Calcul de Pi à partir des mesures d’un cercle <br>
 5- Confirmez votre résultat en répétant la même opération avec des cercles de périmètres différents, puis faites la moyenne des résultats trouvés. Cela vous permettra d’obtenir des valeurs assez précises de π.<br>
 methode 1 bis : Calculer le périmètre d'un cercle précisement est impossible. Archimède a donc utiliser une autre manière de faire qui est "d'encadrer" le cercle avec des polygones. Cette méthode est inspiré de la méthode d'exhaustion qu'on attribue a Eudoxe de Cnide. Il créé donc deux polygones; un à l'exterieur du cercle et un autre a l'interieur. Tout 2 aussi proches que possible du cercle. Evidemment plus les polygones auront de coté, plus ils seront proches du cercle. Il aboutit finalement à des polygones comprennant 96 coté et trouve un pi comprit entre 3 + 10 sur 71 et 3 + 1 sur 7 ce qui vaut environ 3,14185. C'est tres impressionnant pour son époque car il n'y a pas de système de numération performant comme le nôtre et surtout, les figures sont soient gravé sur de la pierre ou dessinés dans le sable.
 
-Méthode 2 : Calcul de Pi en utilisant une série infinie<br>
-1- Utilisez la formule de Leibniz-Gregory en faisant (4/1)-(4/3)+(4/5)-(4/7)+… Alternez les additions et les soustractions de fractions ayant toujours 4 au numérateur et un nombre impair croissant au dénominateur. Plus vous ferez d’itérations, plus votre valeur de π sera précise.<br>
-2- Essayez la formule de Nilakantha en alternant des additions et les soustractions de fractions ayant toujours 4 en numérateur. Le dénominateur est le produit de trois entiers successifs. À la fraction suivante, le premier élément du produit est le dernier élément du produit précédent. Cette formule permet l’obtention rapide d’une valeur assez précise de π.
-
-Méthode 3 : La méthode de Buffon. Buffon a remarqué qu’en jetant un très grand nombre d’aiguilles sur un parquet, on pouvait obtenir une approximation de π. Pour cela, il faudra utiliser des aiguilles qui ont comme longueur la largeur des lattes du parquet. La probabilité qu’une aiguille coupe le bord d’une latte serait de π.
-
-Méthode 4 : Obtenir Pi en utilisant la limite d’une fonction<br>
-1- Choisissez un grand nombre que l’on appellera x (plus élevé sera ce nombre, plus précise sera votre valeur de π.<br>
-2- Faites l’application numérique en remplaçant x par la valeur que vous avez choisie dans la fraction suivante : x*sin [180/x]. Pour que cette méthode puisse fonctionner, votre calculatrice doit être réglée sur « degrés ».
-
-Méthode 5 : Calculer la constante Pi en utilisant la fonction arcsinus<br>
-1- Choisissez un nombre x dans l’intervalle -1 et 1 ouvert, car la fonction arcsinus n’admet pas de valeurs extérieures à l’intervalle [-1 ; 1].<br>
-2- Entrez le nombre choisi dans la formule qui suit : 2*[arcsin (sqrt (1-x^2)) + abs (arcsin(1))].
-
 Évocation euler 
 plus belle démonstration mathématique : comprend les 3 opération de base des mathématiques, on y retrouve les 5 nomres les plus importants/ celebre des mathématiques.
 
