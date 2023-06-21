@@ -2,7 +2,7 @@
 
 Sujet grand oral math
 
-__Pourquoi les mathématiciens se sont t’ils intéressés au nombre pi ?___
+__Pourquoi les mathématiciens se sont t’ils intéressés au nombre pi ?__
 
 ## Intro : historique 
 
@@ -10,7 +10,7 @@ __Pourquoi les mathématiciens se sont t’ils intéressés au nombre pi ?___
 
 ## I pourquoi 
 
-(Les raisons pour lesquelles mathématiciens se sont intéressés au nombre π sont nombreuses.) Premièrement, Le cercle est une figure géométrique fondamentale et le rapport entre la circonférence et le diamètre est une caractéristique intrinsèque à tous les cercles. La valeur de π est nécessaire pour calculer la circonférence, l'aire et d'autres propriétés géométriques des cercles. En comprenant π, nous comprenons mieux la nature des cercles et des formes circulaires. En comprenant π, nous comprenons mieux la nature des cercles et des formes circulaires. il intervient dans la résolution de tous les problèmes impliquant une figure géométrique qui possède une courbure de 180°.
+Premièrement, Le cercle est une figure géométrique fondamentale et le rapport entre la circonférence et le diamètre est une caractéristique intrinsèque à tous les cercles. La valeur de π est nécessaire pour calculer la circonférence, l'aire et d'autres propriétés géométriques des cercles. En comprenant π, nous comprenons mieux la nature des cercles et des formes circulaires. En comprenant π, nous comprenons mieux la nature des cercles et des formes circulaires. il intervient dans la résolution de tous les problèmes impliquant une figure géométrique qui possède une courbure de 180°.
 Connaitre la valeur de pi est donc très importante pour effectuer des calculs. 
 De plus pi est présent dans de nombreux domaines et est donc souvent utilisé. Il est évidemment présent dans les maths; géométrie, trigonométrie et nombres complexes par exemple. Il est également présent en physique dans de nombreuses formules, notamment dans les études de mouvements circulaires des planètes par exemple. Et plus simplement, Pi est présent dans notre vie sans forcement qu'on s'en rende compte. Une horloge fonctionne grâce à un système d'engrenages qui tournent à l'aide de dents. La taille des dents est définie par la distance constante entre deux points calculée à l'aide du nombre Pi. Votre système électrique fonctionne probablement en courant alternatif. D'où l'utilisation de fonctions périodiques sinusoïdales et Pi est encore impliqué là-dedans( pour le calcul de la valeur instantanée de la tensionω est la pulsation du signal, en radians par seconde (rad⋅s-1), défini par ω = 2⋅π⋅ƒ = 2⋅π/T ) . En voiture aussi, Pi n'est jamais loin : « Le compteur dépend du nombre de tours de roues, qui dépend lui-même du périmètre de la roue, qui dépend de Pi »
 Néanmoins, comme le résume Julia Collins, mathématicienne, « Dix décimales suffisent à calculer la circonférence de la Terre à moins d’un millimètre près. Avec 32 décimales, on peut calculer la circonférence de la Voie lactée avec une précision de l’ordre de la largeur d’un atome d’hydrogène. »
