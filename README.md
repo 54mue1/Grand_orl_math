@@ -50,3 +50,20 @@ Connaître autant de chiffres derrière la virgule ne bouleverse donc pas notre 
 En réalité, comme souvent en sciences, le résultat importe moins que les moyens pour y parvenir. « Pour battre de pareils records, il faut mettre au point des algorithmes capables de gérer des très longues suites de chiffres et des technologies capables de calculer très vite, sans interruption et sans erreur, détaille Jean-Paul Delahaye. C’est très utile en cryptographie par exemple. » Une puissance informatique, logicielle et matérielle, qui sert aussi dans les prévisions météo, la biologie ou l’intelligence artificielle.
 
 
+## infos bonus
+
+Méthode 2 : Calcul de Pi en utilisant une série infinie<br>
+1- Utilisez la formule de Leibniz-Gregory en faisant (4/1)-(4/3)+(4/5)-(4/7)+… Alternez les additions et les soustractions de fractions ayant toujours 4 au numérateur et un nombre impair croissant au dénominateur. Plus vous ferez d’itérations, plus votre valeur de π sera précise.<br>
+2- Essayez la formule de Nilakantha en alternant des additions et les soustractions de fractions ayant toujours 4 en numérateur. Le dénominateur est le produit de trois entiers successifs. À la fraction suivante, le premier élément du produit est le dernier élément du produit précédent. Cette formule permet l’obtention rapide d’une valeur assez précise de π.
+
+Méthode 3 : La méthode de Buffon. Buffon a remarqué qu’en jetant un très grand nombre d’aiguilles sur un parquet, on pouvait obtenir une approximation de π. Pour cela, il faudra utiliser des aiguilles qui ont comme longueur la largeur des lattes du parquet. La probabilité qu’une aiguille coupe le bord d’une latte serait de π.
+
+Méthode 4 : Obtenir Pi en utilisant la limite d’une fonction<br>
+1- Choisissez un grand nombre que l’on appellera x (plus élevé sera ce nombre, plus précise sera votre valeur de π.<br>
+2- Faites l’application numérique en remplaçant x par la valeur que vous avez choisie dans la fraction suivante : x*sin [180/x]. Pour que cette méthode puisse fonctionner, votre calculatrice doit être réglée sur « degrés ».
+
+Méthode 5 : Calculer la constante Pi en utilisant la fonction arcsinus<br>
+1- Choisissez un nombre x dans l’intervalle -1 et 1 ouvert, car la fonction arcsinus n’admet pas de valeurs extérieures à l’intervalle [-1 ; 1].<br>
+2- Entrez le nombre choisi dans la formule qui suit : 2*[arcsin (sqrt (1-x^2)) + abs (arcsin(1))].
+
+
